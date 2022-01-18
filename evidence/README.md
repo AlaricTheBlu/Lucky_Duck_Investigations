@@ -1,3 +1,3 @@
 # Lucky Duck Evidence
 
-# Evidence from investigation for Lucky Duck Casino.
+Evidence from investigation for Lucky Duck Casino.
